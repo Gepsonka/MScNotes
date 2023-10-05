@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "2e548370ca24ad2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1204ef5bb99abec1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33a055a495a24a8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crypto Lab/Bitcoin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e110dd74d07164cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algo/Discrete Optimization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f8103bea7850bdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "683ef53cac86ef4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25c594280eb74968",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8faae28015b2cd9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c0dcfddcf50403e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "67ecbea37be08cd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2bbcdf7ca467a14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "643c83096d8d0d46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algo/Discrete Optimization.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "888e9bcfea5b884d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Algo/Discrete Optimization.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5de3568f4075095e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "86f5c4fb0254569b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Algo/Discrete Optimization.md"
+              }
+            }
+          },
+          {
+            "id": "bb2db279e221bc79",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "e110dd74d07164cb",
+  "lastOpenFiles": [
+    "Algo/Linear Sorting Algorithm.md",
+    "Algo/parhuzamos algo.md",
+    "Machine Learning/Multi Parameter Log. Reg..md",
+    "Screenshot 2023-10-02 at 12.49.02 PM.png",
+    "Machine Learning/Multi Parameter Linear Regression.md",
+    "Algo/Discrete Optimization.md",
+    "Crypto Seminar/Block cipher Types.md",
+    "Algo/Parhuzamos/General Sorting Algorithms.md",
+    "Algo/Algo Speed.md",
+    "Algo/Parhuzamos/Time Complexity.md",
+    "Machine Learning Sem./Linear.md",
+    "Info rendszerek/Untitled.md",
+    "Info rendszerek/Modellezes.md",
+    "Crypto Lab/Bitcoin.md",
+    "Crypto Lab/Bitcoin.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-14 10.57.51.excalidraw.md",
+    "Excalidraw",
+    "Crypto Seminar/Basic concept.md",
+    "Crypto Lab/Blockhain usage.md",
+    "fig.png",
+    "Figure_1 1.png",
+    "Figure_1.png",
+    "Machine Learning",
+    "Crypto Seminar",
+    "Crypto Lab",
+    "Excalidraw/Drawing 2023-09-07 15.24.24.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-07 14.38.03.excalidraw.md",
+    "Algo/Parhuzamos",
+    "Algo",
+    "Machine Learning Sem.",
+    "Info rendszerek",
+    "Untitled.canvas",
+    "2023-09-06.md"
+  ]
+}
