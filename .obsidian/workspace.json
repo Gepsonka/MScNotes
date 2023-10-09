@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/Discrete Optimization.md",
+                "file": "Machine Learning/Multi Parameter Log. Reg..md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algo/Discrete Optimization.md",
+                "file": "Machine Learning/Multi Parameter Log. Reg..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algo/Discrete Optimization.md",
+                "file": "Machine Learning/Multi Parameter Log. Reg..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algo/Discrete Optimization.md"
+                "file": "Machine Learning/Multi Parameter Log. Reg..md"
               }
             }
           },
@@ -173,17 +173,18 @@
   },
   "active": "e110dd74d07164cb",
   "lastOpenFiles": [
+    "Machine Learning Sem./Linear.md",
+    "Machine Learning/Multi Parameter Log. Reg..md",
+    "Machine Learning/Multi Parameter Linear Regression.md",
+    "Crypto Lab/Anonimity.md",
+    "Algo/Discrete Optimization.md",
     "Algo/Linear Sorting Algorithm.md",
     "Algo/parhuzamos algo.md",
-    "Machine Learning/Multi Parameter Log. Reg..md",
     "Screenshot 2023-10-02 at 12.49.02 PM.png",
-    "Machine Learning/Multi Parameter Linear Regression.md",
-    "Algo/Discrete Optimization.md",
     "Crypto Seminar/Block cipher Types.md",
     "Algo/Parhuzamos/General Sorting Algorithms.md",
     "Algo/Algo Speed.md",
     "Algo/Parhuzamos/Time Complexity.md",
-    "Machine Learning Sem./Linear.md",
     "Info rendszerek/Untitled.md",
     "Info rendszerek/Modellezes.md",
     "Crypto Lab/Bitcoin.md",
