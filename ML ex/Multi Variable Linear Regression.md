@@ -1,0 +1,3 @@
+
+Dependent variables
+$$y = $$
